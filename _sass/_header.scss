@@ -15,8 +15,13 @@ header {
 .intro {
     margin-bottom: ($spacer * 2);
 
-    &__pre, &__post {
+    &__pre{
         
+        letter-spacing: 4px;
+    }
+
+     &__post{
+        text-transform: uppercase;
         letter-spacing: 4px;
     }
 
