@@ -1,7 +1,9 @@
--   title: Software Developer Intern
-    company: Tata Institute of Fundamental Research
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
--   title: Project Assistant
+-   title: Undergraduate Research Assistant
     company: Web Intelligence and Social Computing Lab, BITS Pilani
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    description: My work involves feature extraction for better representation of images for querying and other machine learning purposes. I am working on developing a deep learning architecture for better feature extraction.
+
+-   title: Software Developer Intern
+    company: Tata Institute of Fundamental Research, Mumbai
+    description: Integrated the web-communication features provided by BigBlueButton(an open-source web conferencing system) into Gstudio, an online collaboration software with the help of APIs.
+
+
