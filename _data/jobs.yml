@@ -1,10 +1,10 @@
 -   title: Software Engineering Intern
     company: Samsung Research and Development Institute, Noida, India
-    description: Contributed to the 3D face recognition team.
+    description: Contributed to the 3D face recognition team. Created a module for preprocessing and visualization of raw 3D images.
 
 -   title: Research Assistant
     company: Web Intelligence and Social Computing Lab, BITS Pilani
-    description: My work involves feature extraction for better representation of images for information retrieval and other machine learning purposes. Surveyed various state-of-the-art Convolutional Neural Network architectures such as GoogLeNet, ResNet, AlexNet.
+    description: Project involves proposing a novel architecture for feature extraction from images. Surveyed various state-of-the-art Convolutional Neural Network architectures such as GoogLeNet, ResNet, AlexNet.
 
 -   title: Project Assistant
     company: Computer Vision Lab, CSIR-CEERI, Pilani
