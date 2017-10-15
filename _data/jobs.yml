@@ -1,14 +1,15 @@
 -   title: Software Engineering Intern
     company: Samsung Research and Development Institute, Noida, India
     description: Contributed to the 3D face recognition team.
-    description: Contributed to the 3D
 
--   title: Undergraduate Research Assistant
+-   title: Research Assistant
     company: Web Intelligence and Social Computing Lab, BITS Pilani
-    description: My work involves feature extraction for better representation of images for information retrieval and other machine learning purposes. I am working on developing a deep learning architecture for better feature extraction.
+    description: My work involves feature extraction for better representation of images for information retrieval and other machine learning purposes. Surveyed various state-of-the-art Convolutional Neural Network architectures such as GoogLeNet, ResNet, AlexNet.
+
+-   title: Project Assistant
+    company: Computer Vision Lab, CSIR-CEERI, Pilani
+    description: The project is focused on creating a server-client interface for facial recognition using FaceNet architecture and storing the face embeddings in a database.
 
 -   title: Software Developer Intern
     company: Tata Institute of Fundamental Research, Mumbai
     description: Integrated the web-communication features provided by BigBlueButton(an open-source web conferencing system) into Gstudio, an online collaboration software with the help of APIs.
-
-
